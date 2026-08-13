@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:31:03Z",
+            "last_commit": "2026-08-13T08:33:38Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144120
+            "stars": 144151
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-04-07T07:11:03Z",
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12185
+            "stars": 12186
           }
         }
       ],
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-08T19:04:44Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 67984
+            "stars": 67990
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T03:43:40Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 117631
+            "stars": 117649
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 64753
+            "stars": 64773
           }
         }
       ],
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:31:03Z",
+            "last_commit": "2026-08-13T08:33:38Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144120
+            "stars": 144151
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:39.738Z",
+    "last_updated": "2026-08-13T10:14:09.014Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
     "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
