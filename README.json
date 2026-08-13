@@ -1,0 +1,291 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seamless_communication",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-28T13:03:12Z",
+            "owner": "facebookresearch",
+            "repo": "seamless_communication",
+            "stars": 11839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-05T09:18:46Z",
+            "owner": "gkamradt",
+            "repo": "langchain-tutorials",
+            "stars": 7484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fairseq2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:26:34Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq2",
+            "stars": 1144
+          }
+        }
+      ],
+      "title": "Tools and Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPT Engineer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-14T10:15:10Z",
+            "owner": "AntonOsika",
+            "repo": "gpt-engineer",
+            "stars": 55148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-07T07:11:03Z",
+            "owner": "smol-ai",
+            "repo": "developer",
+            "stars": 12185
+          }
+        }
+      ],
+      "title": "LLM Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Holistic Evaluation of Language Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T01:23:17Z",
+            "owner": "stanford-crfm",
+            "repo": "helm",
+            "stars": 2877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chatgpt-evaluation-01-2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-07T16:48:10Z",
+            "owner": "CLARIN-PL",
+            "repo": "chatgpt-evaluation-01-2023",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "LLM Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenAI's Code Interpreter in your terminal, running locally",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T19:04:44Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 67984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. As simple as useLLM().",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-27T21:20:05Z",
+            "owner": "r2d4",
+            "repo": "react-llm",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inference Experiments with LLaMA v2 7b",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-05T21:52:12Z",
+            "owner": "djliden",
+            "repo": "inference-experiments",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "LLM Inference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generative AI for Beginners - A Course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T03:43:40Z",
+            "owner": "microsoft",
+            "repo": "generative-ai-for-beginners",
+            "stars": 117631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artificial Intelligence for Beginners - A Curriculum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-21T11:11:48Z",
+            "owner": "microsoft",
+            "repo": "AI-For-Beginners",
+            "stars": 64753
+          }
+        }
+      ],
+      "title": "LLM Tutorials and Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seamless_communication",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-28T13:03:12Z",
+            "owner": "facebookresearch",
+            "repo": "seamless_communication",
+            "stars": 11839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-05T09:18:46Z",
+            "owner": "gkamradt",
+            "repo": "langchain-tutorials",
+            "stars": 7484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fairseq2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:26:34Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq2",
+            "stars": 1144
+          }
+        }
+      ],
+      "title": "Open LLM Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Uncategorized"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:39.738Z",
+    "original_repository": "aipengineer/awesome-ai-engineering-reads",
+    "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
+    "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Engineer Reads with stars"
+  }
+}
