@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:30:59Z",
+            "last_commit": "2026-08-15T08:07:42Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144237
+            "stars": 144250
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-08-05T09:18:46Z",
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7483
+            "stars": 7481
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55147
+            "stars": 55142
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-01T01:23:17Z",
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2877
+            "stars": 2880
           }
         },
         {
@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-08T19:04:44Z",
+            "last_commit": "2026-08-15T06:50:50Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68017
+            "stars": 68007
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T03:43:40Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 117724
+            "stars": 117775
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 64878
+            "stars": 64951
           }
         }
       ],
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:30:59Z",
+            "last_commit": "2026-08-15T08:07:42Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144237
+            "stars": 144250
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2024-08-05T09:18:46Z",
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7483
+            "stars": 7481
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:09:29.363Z",
+    "last_updated": "2026-08-15T09:30:55.062Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
     "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
