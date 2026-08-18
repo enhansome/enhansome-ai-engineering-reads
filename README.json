@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:04:53Z",
+            "last_commit": "2026-08-18T08:11:47Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144364
+            "stars": 144459
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55138
+            "stars": 55135
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-04-07T07:11:03Z",
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12185
+            "stars": 12186
           }
         }
       ],
@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T09:19:45Z",
+            "last_commit": "2026-08-17T18:27:04Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68041
+            "stars": 68053
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-13T03:43:40Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 117909
+            "stars": 117981
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 65095
+            "stars": 65292
           }
         }
       ],
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:04:53Z",
+            "last_commit": "2026-08-18T08:11:47Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144364
+            "stars": 144459
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:49:21.338Z",
+    "last_updated": "2026-08-18T09:39:18.235Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
     "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
