@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-18T08:11:47Z",
+            "last_commit": "2026-08-19T08:12:15Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144459
+            "stars": 144539
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673524886,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11842
+            "stars": 11841
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601277247,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-05T09:18:46Z",
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7483
+            "stars": 7484
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581166973,
             "language": "Python",
             "last_commit": "2026-08-10T02:26:34Z",
             "owner": "facebookresearch",
@@ -63,7 +67,7 @@
       "title": "Tools and Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 634224458,
             "language": "Python",
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640161038,
             "language": "Python",
             "last_commit": "2024-04-07T07:11:03Z",
             "owner": "smol-ai",
@@ -97,7 +103,7 @@
       "title": "LLM Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432968463,
             "language": "Python",
             "last_commit": "2026-08-01T01:23:17Z",
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2879
+            "stars": 2880
           }
         },
         {
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603019278,
             "language": "Jupyter Notebook",
             "last_commit": "2023-03-07T16:48:10Z",
             "owner": "CLARIN-PL",
@@ -131,7 +139,7 @@
       "title": "LLM Evaluation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -140,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:27:04Z",
+            "last_commit": "2026-08-19T08:38:41Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68053
+            "stars": 68066
           }
         },
         {
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639710310,
             "language": "TypeScript",
             "last_commit": "2023-06-27T21:20:05Z",
             "owner": "r2d4",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 682170987,
             "language": "Jupyter Notebook",
             "last_commit": "2023-10-05T21:52:12Z",
             "owner": "djliden",
@@ -179,7 +190,7 @@
       "title": "LLM Inference"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -188,11 +199,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655806940,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-13T03:43:40Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 117981
+            "stars": 118069
           }
         },
         {
@@ -202,18 +214,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344190478,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 65292
+            "stars": 65556
           }
         }
       ],
       "title": "LLM Tutorials and Courses"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -222,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-18T08:11:47Z",
+            "last_commit": "2026-08-19T08:12:15Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144459
+            "stars": 144539
           }
         },
         {
@@ -236,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673524886,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11842
+            "stars": 11841
           }
         },
         {
@@ -250,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601277247,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-05T09:18:46Z",
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7483
+            "stars": 7484
           }
         },
         {
@@ -264,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581166973,
             "language": "Python",
             "last_commit": "2026-08-10T02:26:34Z",
             "owner": "facebookresearch",
@@ -273,15 +290,10 @@
         }
       ],
       "title": "Open LLM Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Uncategorized"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:39:18.235Z",
+    "last_updated": "2026-08-19T09:39:13.851Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
     "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
