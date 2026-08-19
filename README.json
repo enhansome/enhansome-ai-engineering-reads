@@ -12,10 +12,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-19T08:12:15Z",
+            "last_commit": "2026-08-19T10:38:36Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144539
+            "stars": 144551
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55135
+            "stars": 55134
           }
         },
         {
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-19T08:38:41Z",
+            "last_commit": "2026-08-19T11:41:32Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68066
+            "stars": 68068
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-13T03:43:40Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118069
+            "stars": 118078
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 65556
+            "stars": 65591
           }
         }
       ],
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-19T08:12:15Z",
+            "last_commit": "2026-08-19T10:38:36Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144539
+            "stars": 144551
           }
         },
         {
@@ -293,8 +293,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:39:13.851Z",
+    "last_updated": "2026-08-19T12:16:30.211Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
+    "original_repository_id": 723212058,
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
     "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
     "enhanced_repository_description": null,
