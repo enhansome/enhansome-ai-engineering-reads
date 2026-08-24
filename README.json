@@ -12,10 +12,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-24T08:18:26Z",
+            "last_commit": "2026-08-24T14:31:31Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144878
+            "stars": 144894
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-04-07T07:11:03Z",
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12185
+            "stars": 12184
           }
         }
       ],
@@ -143,6 +143,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 579494713,
+            "language": "Python",
+            "last_commit": "2025-01-15T22:09:40Z",
+            "owner": "xlang-ai",
+            "repo": "instructor-embedding",
+            "stars": 2023
+          }
+        }
+      ],
+      "title": "LLM Embeddings"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TWIML-RAG - a TWIML generative_ai community project.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663576014,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-16T17:54:25Z",
+            "owner": "TWIML",
+            "repo": "TWIML-RAG",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "LLM plus Retrieval"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "OpenAI's Code Interpreter in your terminal, running locally",
           "description": null,
           "children": [],
@@ -153,7 +195,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68130
+            "stars": 68131
           }
         },
         {
@@ -194,6 +236,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564072810,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:31:18Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11168
+          }
+        }
+      ],
+      "title": "LLM Observability"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Generative AI for Beginners - A Course",
           "description": null,
           "children": [],
@@ -204,7 +267,7 @@
             "last_commit": "2026-08-20T03:43:12Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118448
+            "stars": 118461
           }
         },
         {
@@ -219,7 +282,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 66651
+            "stars": 66698
           }
         }
       ],
@@ -237,10 +300,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-24T08:18:26Z",
+            "last_commit": "2026-08-24T14:31:31Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144878
+            "stars": 144894
           }
         },
         {
@@ -290,10 +353,52 @@
         }
       ],
       "title": "Open LLM Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Numbers every LLM Developer should know",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642021929,
+            "language": null,
+            "last_commit": "2024-01-16T10:15:43Z",
+            "owner": "ray-project",
+            "repo": "llm-numbers",
+            "stars": 4316
+          }
+        }
+      ],
+      "title": "LLM Numbers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A guidance language for controlling large language models.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564443255,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-21T17:08:04Z",
+            "owner": "guidance-ai",
+            "repo": "guidance",
+            "stars": 21716
+          }
+        }
+      ],
+      "title": "LLM Ethics and Governance"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:54:29.319Z",
+    "last_updated": "2026-08-24T14:43:01.803Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
     "original_repository_id": 723212058,
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
