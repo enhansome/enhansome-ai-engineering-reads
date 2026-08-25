@@ -12,10 +12,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T08:16:58Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144931
+            "stars": 144950
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11841
+            "stars": 11842
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68139
+            "stars": 68140
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-25T06:36:41Z",
+            "last_commit": "2026-08-25T07:07:31Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11174
+            "stars": 11179
           }
         }
       ],
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-20T03:43:12Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118502
+            "stars": 118515
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 66825
+            "stars": 66864
           }
         }
       ],
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T08:16:58Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144931
+            "stars": 144950
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11841
+            "stars": 11842
           }
         },
         {
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:10.373Z",
+    "last_updated": "2026-08-25T09:41:17.149Z",
     "original_repository": "aipengineer/awesome-ai-engineering-reads",
     "original_repository_id": 723212058,
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
