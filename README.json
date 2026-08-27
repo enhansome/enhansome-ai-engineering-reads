@@ -12,10 +12,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-26T23:12:17Z",
+            "last_commit": "2026-08-27T19:31:33Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145109
+            "stars": 145141
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11843
+            "stars": 11842
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T02:26:34Z",
             "owner": "facebookresearch",
             "repo": "fairseq2",
-            "stars": 1143
+            "stars": 1144
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55119
+            "stars": 55118
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-01T01:23:17Z",
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2887
+            "stars": 2889
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68162
+            "stars": 68170
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-27T08:27:36Z",
+            "last_commit": "2026-08-27T19:43:01Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11210
+            "stars": 11217
           }
         }
       ],
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 655806940,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T03:43:29Z",
+            "last_commit": "2026-08-27T12:02:05Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118643
+            "stars": 118661
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67282
+            "stars": 67352
           }
         }
       ],
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-26T23:12:17Z",
+            "last_commit": "2026-08-27T19:31:33Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145109
+            "stars": 145141
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11843
+            "stars": 11842
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-10T02:26:34Z",
             "owner": "facebookresearch",
             "repo": "fairseq2",
-            "stars": 1143
+            "stars": 1144
           }
         }
       ],
@@ -390,7 +390,7 @@
             "last_commit": "2026-05-21T17:08:04Z",
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21714
+            "stars": 21719
           }
         }
       ],
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:00.067Z",
+    "last_updated": "2026-08-27T19:43:56.464Z",
     "original_repository_info": {
       "archived": false,
       "id": 723212058,
