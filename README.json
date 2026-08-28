@@ -12,11 +12,12 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-27T19:31:33Z",
+            "last_commit": "2026-08-28T16:19:21Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145141
-          }
+            "stars": 145204
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11842
-          }
+            "stars": 11844
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
             "stars": 7485
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "facebookresearch",
             "repo": "fairseq2",
             "stars": 1144
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "Tools and Frameworks"
@@ -81,8 +85,9 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55118
-          }
+            "stars": 55117
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "smol-ai",
             "repo": "developer",
             "stars": 12186
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Applications"
@@ -117,8 +123,9 @@
             "last_commit": "2026-08-01T01:23:17Z",
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2889
-          }
+            "stars": 2890
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "CLARIN-PL",
             "repo": "chatgpt-evaluation-01-2023",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Evaluation"
@@ -154,7 +162,8 @@
             "owner": "xlang-ai",
             "repo": "instructor-embedding",
             "stars": 2023
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Embeddings"
@@ -175,7 +184,8 @@
             "owner": "TWIML",
             "repo": "TWIML-RAG",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM plus Retrieval"
@@ -195,8 +205,9 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68170
-          }
+            "stars": 68174
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -211,7 +222,8 @@
             "owner": "r2d4",
             "repo": "react-llm",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -226,7 +238,8 @@
             "owner": "djliden",
             "repo": "inference-experiments",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Inference"
@@ -243,11 +256,12 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-27T19:43:01Z",
+            "last_commit": "2026-08-28T20:31:32Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11217
-          }
+            "stars": 11227
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Observability"
@@ -267,8 +281,9 @@
             "last_commit": "2026-08-27T12:02:05Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118661
-          }
+            "stars": 118712
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -282,8 +297,9 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67352
-          }
+            "stars": 67534
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Tutorials and Courses"
@@ -300,11 +316,12 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-27T19:31:33Z",
+            "last_commit": "2026-08-28T16:19:21Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145141
-          }
+            "stars": 145204
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -318,8 +335,9 @@
             "last_commit": "2026-07-28T13:03:12Z",
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11842
-          }
+            "stars": 11844
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -334,7 +352,8 @@
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
             "stars": 7485
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         },
         {
           "node_type": "item",
@@ -349,7 +368,8 @@
             "owner": "facebookresearch",
             "repo": "fairseq2",
             "stars": 1144
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "Open LLM Tools"
@@ -370,7 +390,8 @@
             "owner": "ray-project",
             "repo": "llm-numbers",
             "stars": 4315
-          }
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Numbers"
@@ -390,15 +411,16 @@
             "last_commit": "2026-05-21T17:08:04Z",
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21719
-          }
+            "stars": 21730
+          },
+          "first_seen": "2026-08-28T20:47:37.330Z"
         }
       ],
       "title": "LLM Ethics and Governance"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:43:56.464Z",
+    "last_updated": "2026-08-28T20:47:37.330Z",
     "original_repository_info": {
       "archived": false,
       "id": 723212058,
