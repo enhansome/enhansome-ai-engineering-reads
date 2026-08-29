@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T16:19:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145204
+            "stars": 145216,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -26,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Foundational Models for State-of-the-Art Speech and Text Translation",
+            "homepage": null,
             "id": 673524886,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T13:03:12Z",
+            "open_issues": 252,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11844
+            "stars": 11844,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -42,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overview and tutorial of the LangChain Library",
+            "homepage": null,
             "id": 601277247,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-05T09:18:46Z",
+            "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7485
+            "stars": 7485,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -58,12 +94,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FAIR Sequence Modeling Toolkit 2",
+            "homepage": "https://facebookresearch.github.io/fairseq2/",
             "id": 581166973,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T02:26:34Z",
+            "open_issues": 150,
             "owner": "facebookresearch",
             "repo": "fairseq2",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -80,12 +127,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+            "homepage": null,
             "id": 634224458,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-14T10:15:10Z",
+            "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55117
+            "stars": 55118,
+            "topics": [
+              "ai",
+              "autonomous-agent",
+              "code-generation",
+              "codebase-generation",
+              "codegen",
+              "coding-assistant",
+              "gpt-4",
+              "gpt-engineer",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -96,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the first library to let you embed a developer agent in your own app!",
+            "homepage": "https://twitter.com/SmolModels",
             "id": 640161038,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-07T07:11:03Z",
+            "open_issues": 86,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12186
+            "stars": 12186,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -118,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+            "homepage": "https://crfm.stanford.edu/helm",
             "id": 432968463,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T01:23:17Z",
+            "open_issues": 98,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2890
+            "stars": 2890,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -134,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code, datasets and results of the ChatGPT evaluation presented in paper \"ChatGPT: Jack of all trades, master of none\"",
+            "homepage": null,
             "id": 603019278,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-07T16:48:10Z",
+            "open_issues": 0,
             "owner": "CLARIN-PL",
             "repo": "chatgpt-evaluation-01-2023",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -156,12 +234,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
+            "homepage": null,
             "id": 579494713,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-15T22:09:40Z",
+            "open_issues": 37,
             "owner": "xlang-ai",
             "repo": "instructor-embedding",
-            "stars": 2023
+            "stars": 2023,
+            "topics": [
+              "embeddings",
+              "information-retrieval",
+              "language-model",
+              "prompt-retrieval",
+              "text-classification",
+              "text-clustering",
+              "text-embedding",
+              "text-evaluation",
+              "text-reranking",
+              "text-semantic-similarity"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -178,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 663576014,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-03-16T17:54:25Z",
+            "open_issues": 0,
             "owner": "TWIML",
             "repo": "TWIML-RAG",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -200,12 +299,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent for open models like Kimi K3",
+            "homepage": "http://openinterpreter.com/",
             "id": 666299222,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T03:35:38Z",
+            "open_issues": 8,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68174
+            "stars": 68177,
+            "topics": [
+              "acp",
+              "coding-agent",
+              "deepseek",
+              "kimi",
+              "qwen",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -216,12 +327,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().",
+            "homepage": "https://chat.matt-rickard.com",
             "id": 639710310,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-27T21:20:05Z",
+            "open_issues": 2,
             "owner": "r2d4",
             "repo": "react-llm",
-            "stars": 700
+            "stars": 700,
+            "topics": [
+              "headless",
+              "llm",
+              "react",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -232,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "experiments in optimizing LLM inference",
+            "homepage": null,
             "id": 682170987,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-10-05T21:52:12Z",
+            "open_issues": 0,
             "owner": "djliden",
             "repo": "inference-experiments",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -254,12 +380,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-28T20:31:32Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11227
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -276,12 +424,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "21 Lessons, Get Started Building with Generative AI ",
+            "homepage": null,
             "id": 655806940,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:02:05Z",
+            "open_issues": 28,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118712
+            "stars": 118720,
+            "topics": [
+              "ai",
+              "azure",
+              "chatgpt",
+              "dall-e",
+              "generative-ai",
+              "generativeai",
+              "gpt",
+              "language-model",
+              "llms",
+              "microsoft-for-beginners",
+              "openai",
+              "prompt-engineering",
+              "semantic-search",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -292,12 +460,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "homepage": null,
             "id": 344190478,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:11:48Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67534
+            "stars": 67571,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "cnn",
+              "computer-vision",
+              "deep-learning",
+              "gan",
+              "machine-learning",
+              "microsoft-for-beginners",
+              "nlp",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -314,12 +498,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T16:19:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145204
+            "stars": 145216,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -330,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Foundational Models for State-of-the-Art Speech and Text Translation",
+            "homepage": null,
             "id": 673524886,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T13:03:12Z",
+            "open_issues": 252,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11844
+            "stars": 11844,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -346,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overview and tutorial of the LangChain Library",
+            "homepage": null,
             "id": 601277247,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-05T09:18:46Z",
+            "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7485
+            "stars": 7485,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         },
@@ -362,12 +582,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FAIR Sequence Modeling Toolkit 2",
+            "homepage": "https://facebookresearch.github.io/fairseq2/",
             "id": 581166973,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T02:26:34Z",
+            "open_issues": 150,
             "owner": "facebookresearch",
             "repo": "fairseq2",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -384,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Numbers every LLM developer should know",
+            "homepage": null,
             "id": 642021929,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-16T10:15:43Z",
+            "open_issues": 10,
             "owner": "ray-project",
             "repo": "llm-numbers",
-            "stars": 4315
+            "stars": 4315,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -406,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guidance language for controlling large language models.",
+            "homepage": null,
             "id": 564443255,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:08:04Z",
+            "open_issues": 321,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21730
+            "stars": 21730,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
         }
@@ -420,15 +661,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:47:37.330Z",
+    "last_updated": "2026-08-29T05:00:06.533Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Essential reads for every AI engineer interested in building AI apps.",
+      "homepage": "https://aipengineer.substack.com",
       "id": 723212058,
       "language": null,
+      "license": null,
       "last_commit": "2024-02-29T16:10:17Z",
+      "open_issues": 2,
       "owner": "aipengineer",
       "repo": "awesome-ai-engineering-reads",
-      "stars": 96
+      "stars": 96,
+      "topics": [
+        "ai",
+        "ai-engineer",
+        "ai-engineering",
+        "aiengineer",
+        "aiengineering",
+        "awesome",
+        "awesome-list",
+        "awesome-lists"
+      ]
     },
     "original_repository_sha": "fe203b20b41a911117dc0dcee5651739aa144b58",
     "enhanced_repository": "enhansome/enhansome-ai-engineering-reads",
