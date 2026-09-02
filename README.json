@@ -15,11 +15,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T13:21:38Z",
-            "open_issues": 445,
+            "last_commit": "2026-09-02T08:37:59Z",
+            "open_issues": 440,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145428,
+            "stars": 145503,
             "topics": [
               "agents",
               "ai",
@@ -82,7 +82,7 @@
             "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7485,
+            "stars": 7486,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -168,7 +168,7 @@
             "open_issues": 86,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12187,
+            "stars": 12189,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -192,10 +192,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T01:33:19Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2897,
+            "stars": 2898,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -308,7 +308,7 @@
             "open_issues": 10,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68220,
+            "stars": 68218,
             "topics": [
               "acp",
               "coding-agent",
@@ -385,11 +385,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T13:57:21Z",
-            "open_issues": 944,
+            "last_commit": "2026-09-02T13:22:23Z",
+            "open_issues": 952,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11279,
+            "stars": 11293,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -433,7 +433,7 @@
             "open_issues": 28,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118927,
+            "stars": 119003,
             "topics": [
               "ai",
               "azure",
@@ -469,7 +469,7 @@
             "open_issues": 36,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67886,
+            "stars": 67946,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -503,11 +503,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T13:21:38Z",
-            "open_issues": 445,
+            "last_commit": "2026-09-02T08:37:59Z",
+            "open_issues": 440,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145428,
+            "stars": 145503,
             "topics": [
               "agents",
               "ai",
@@ -570,7 +570,7 @@
             "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7485,
+            "stars": 7486,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -651,7 +651,7 @@
             "open_issues": 323,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21730,
+            "stars": 21731,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:03:30.705Z",
+    "last_updated": "2026-09-02T13:29:15.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Essential reads for every AI engineer interested in building AI apps.",
