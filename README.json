@@ -15,11 +15,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:27:47Z",
-            "open_issues": 452,
+            "last_commit": "2026-09-06T08:33:06Z",
+            "open_issues": 453,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145685,
+            "stars": 145758,
             "topics": [
               "agents",
               "ai",
@@ -61,7 +61,7 @@
             "open_issues": 252,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11851,
+            "stars": 11852,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -82,7 +82,7 @@
             "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7489,
+            "stars": 7490,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -103,7 +103,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "fairseq2",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -136,7 +136,7 @@
             "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55107,
+            "stars": 55106,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -168,7 +168,7 @@
             "open_issues": 86,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12187,
+            "stars": 12186,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -299,16 +299,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A coding agent for open models like Kimi K3",
+            "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
             "homepage": "http://openinterpreter.com/",
             "id": 666299222,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:23:03Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-06T06:12:33Z",
+            "open_issues": 1,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68243,
+            "stars": 68247,
             "topics": [
               "acp",
               "coding-agent",
@@ -385,11 +385,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T06:55:45Z",
-            "open_issues": 974,
+            "last_commit": "2026-09-05T23:01:13Z",
+            "open_issues": 978,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11337,
+            "stars": 11342,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -433,7 +433,7 @@
             "open_issues": 26,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 119188,
+            "stars": 119248,
             "topics": [
               "ai",
               "azure",
@@ -469,7 +469,7 @@
             "open_issues": 7,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68086,
+            "stars": 68125,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -503,11 +503,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:27:47Z",
-            "open_issues": 452,
+            "last_commit": "2026-09-06T08:33:06Z",
+            "open_issues": 453,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145685,
+            "stars": 145758,
             "topics": [
               "agents",
               "ai",
@@ -549,7 +549,7 @@
             "open_issues": 252,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11851,
+            "stars": 11852,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -570,7 +570,7 @@
             "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7489,
+            "stars": 7490,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -591,7 +591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "fairseq2",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -651,7 +651,7 @@
             "open_issues": 323,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21737,
+            "stars": 21739,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:31:00.501Z",
+    "last_updated": "2026-09-06T12:46:38.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Essential reads for every AI engineer interested in building AI apps.",
