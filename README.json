@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "LangChain cookbook",
-          "description": null,
+          "description": "langchain-ai/langchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:35:17Z",
+            "last_commit": "2026-10-02T22:57:27Z",
             "open_issues": 606,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147378,
+            "stars": 147391,
             "topics": [
               "agents",
               "ai",
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "seamless_communication",
-          "description": null,
+          "description": "facebookresearch/seamless_communication",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Langchain Tutorials",
-          "description": null,
+          "description": "gkamradt/langchain-tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "fairseq2",
-          "description": null,
+          "description": "facebookresearch/fairseq2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -123,7 +123,7 @@
         {
           "node_type": "item",
           "title": "GPT Engineer",
-          "description": null,
+          "description": "AntonOsika/gpt-engineer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -136,7 +136,7 @@
             "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55061,
+            "stars": 55060,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -155,7 +155,7 @@
         {
           "node_type": "item",
           "title": "Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer",
-          "description": null,
+          "description": "smol-ai/developer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "Holistic Evaluation of Language Models",
-          "description": null,
+          "description": "stanford-crfm/helm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
             "open_issues": 110,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2930,
+            "stars": 2931,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -203,7 +203,7 @@
         {
           "node_type": "item",
           "title": "chatgpt-evaluation-01-2023",
-          "description": null,
+          "description": "CLARIN-PL/chatgpt-evaluation-01-2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,7 +230,7 @@
         {
           "node_type": "item",
           "title": "One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
-          "description": null,
+          "description": "xlang-ai/instructor-embedding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "TWIML-RAG - a TWIML generative_ai community project.",
-          "description": null,
+          "description": "TWIML/TWIML-RAG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -295,7 +295,7 @@
         {
           "node_type": "item",
           "title": "OpenAI's Code Interpreter in your terminal, running locally",
-          "description": null,
+          "description": "openinterpreter/openinterpreter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -308,7 +308,7 @@
             "open_issues": 11,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68483,
+            "stars": 68494,
             "topics": [
               "acp",
               "coding-agent",
@@ -324,7 +324,7 @@
         {
           "node_type": "item",
           "title": "Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. As simple as useLLM().",
-          "description": null,
+          "description": "r2d4/react-llm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "Inference Experiments with LLaMA v2 7b",
-          "description": null,
+          "description": "djliden/inference-experiments",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": "AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.",
-          "description": null,
+          "description": "Arize-ai/phoenix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,11 +386,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T15:25:41Z",
-            "open_issues": 1068,
+            "last_commit": "2026-10-03T03:05:44Z",
+            "open_issues": 1092,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11681,
+            "stars": 11687,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "Generative AI for Beginners - A Course",
-          "description": null,
+          "description": "microsoft/generative-ai-for-beginners",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 120940,
+            "stars": 120957,
             "topics": [
               "ai",
               "azure",
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "Artificial Intelligence for Beginners - A Curriculum",
-          "description": null,
+          "description": "microsoft/AI-For-Beginners",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
             "open_issues": 14,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69376,
+            "stars": 69390,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -495,7 +495,7 @@
         {
           "node_type": "item",
           "title": "LangChain cookbook",
-          "description": null,
+          "description": "langchain-ai/langchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -504,11 +504,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:35:17Z",
+            "last_commit": "2026-10-02T22:57:27Z",
             "open_issues": 606,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147378,
+            "stars": 147391,
             "topics": [
               "agents",
               "ai",
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "seamless_communication",
-          "description": null,
+          "description": "facebookresearch/seamless_communication",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "Langchain Tutorials",
-          "description": null,
+          "description": "gkamradt/langchain-tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -579,7 +579,7 @@
         {
           "node_type": "item",
           "title": "fairseq2",
-          "description": null,
+          "description": "facebookresearch/fairseq2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -612,7 +612,7 @@
         {
           "node_type": "item",
           "title": "Numbers every LLM Developer should know",
-          "description": null,
+          "description": "ray-project/llm-numbers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -639,7 +639,7 @@
         {
           "node_type": "item",
           "title": "A guidance language for controlling large language models.",
-          "description": null,
+          "description": "guidance-ai/guidance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +652,7 @@
             "open_issues": 339,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21785,
+            "stars": 21786,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:37:37.841Z",
+    "last_updated": "2026-10-03T04:30:58.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Essential reads for every AI engineer interested in building AI apps.",
