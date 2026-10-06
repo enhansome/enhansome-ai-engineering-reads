@@ -95,8 +95,8 @@
 
 ## Tools and Frameworks
 
-* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 147,493 | 🐛 641 | 🌐 Python | 📅 2026-10-06
-* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,883 | 🐛 254 | 🌐 Jupyter Notebook | 📅 2026-09-08
+* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 147,496 | 🐛 640 | 🌐 Python | 📅 2026-10-06
+* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,884 | 🐛 254 | 🌐 Jupyter Notebook | 📅 2026-09-08
 * [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,497 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
 * [fairseq2](https://github.com/facebookresearch/fairseq2) ⭐ 1,151 | 🐛 150 | 🌐 Python | 📅 2026-09-08
 * [LangChain: Enabling LLMs to Use Tools](https://drive.google.com/file/d/1Z9wxwZRG8JOMkUfwDw7fD8sbijQ32J7W/view)
@@ -104,7 +104,7 @@
 ## LLM Applications
 
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer/) ⚠️ Archived
-* [Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer](https://github.com/smol-ai/developer) ⭐ 12,186 | 🐛 89 | 🌐 Python | 📅 2024-04-07
+* [Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer](https://github.com/smol-ai/developer) ⭐ 12,187 | 🐛 89 | 🌐 Python | 📅 2024-04-07
 * [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [Introducing AudioCraft: A Generative AI Tool For Audio and Music](https://about.fb.com/news/2023/08/audiocraft-generative-ai-for-music-and-audio/)
 * [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
@@ -168,7 +168,7 @@
 
 ## LLM Inference
 
-* [OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter) ⭐ 68,518 | 🐛 12 | 🌐 Rust | 📅 2026-10-06
+* [OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter) ⭐ 68,517 | 🐛 12 | 🌐 Rust | 📅 2026-10-06
 * [Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. As simple as useLLM().](https://github.com/r2d4/react-llm) ⭐ 700 | 🐛 2 | 🌐 TypeScript | 📅 2023-06-27
 * [Inference Experiments with LLaMA v2 7b](https://github.com/djliden/inference-experiments/tree/main/llama2) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-05
 * [Discover, download, and run local LLMs](https://lmstudio.ai/)
@@ -182,7 +182,7 @@
 
 ## LLM Observability
 
-* [AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.](https://github.com/Arize-ai/phoenix) ⭐ 11,720 | 🐛 1,099 | 🌐 Python | 📅 2026-10-06
+* [AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.](https://github.com/Arize-ai/phoenix) ⭐ 11,730 | 🐛 1,095 | 🌐 Python | 📅 2026-10-06
 
 ## LLM Opinions and Critiques
 
@@ -190,8 +190,8 @@
 
 ## LLM Tutorials and Courses
 
-* [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners/tree/main) ⭐ 121,065 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-10-05
-* [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners) ⭐ 69,493 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-16
+* [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners/tree/main) ⭐ 121,073 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-10-05
+* [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners) ⭐ 69,497 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-16
 * [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 * [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
@@ -218,8 +218,8 @@
 
 ## Open LLM Tools
 
-* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 147,493 | 🐛 641 | 🌐 Python | 📅 2026-10-06
-* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,883 | 🐛 254 | 🌐 Jupyter Notebook | 📅 2026-09-08
+* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 147,496 | 🐛 640 | 🌐 Python | 📅 2026-10-06
+* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,884 | 🐛 254 | 🌐 Jupyter Notebook | 📅 2026-09-08
 * [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,497 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
 * [fairseq2](https://github.com/facebookresearch/fairseq2) ⭐ 1,151 | 🐛 150 | 🌐 Python | 📅 2026-09-08
 * [LangChain: Enabling LLMs to Use Tools](https://drive.google.com/file/d/1Z9wxwZRG8JOMkUfwDw7fD8sbijQ32J7W/view)
