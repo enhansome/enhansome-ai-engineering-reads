@@ -15,11 +15,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T18:35:58Z",
-            "open_issues": 640,
+            "last_commit": "2026-10-13T16:18:55Z",
+            "open_issues": 643,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147696,
+            "stars": 147764,
             "topics": [
               "agents",
               "ai",
@@ -82,7 +82,7 @@
             "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7493,
+            "stars": 7494,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -168,7 +168,7 @@
             "open_issues": 89,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12183,
+            "stars": 12184,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -195,7 +195,7 @@
             "open_issues": 114,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2939,
+            "stars": 2940,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68561,
+            "stars": 68568,
             "topics": [
               "acp",
               "coding-agent",
@@ -386,11 +386,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T18:42:40Z",
-            "open_issues": 1090,
+            "last_commit": "2026-10-13T16:37:29Z",
+            "open_issues": 1166,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11808,
+            "stars": 11819,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -434,7 +434,7 @@
             "open_issues": 17,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 121261,
+            "stars": 121301,
             "topics": [
               "ai",
               "azure",
@@ -470,7 +470,7 @@
             "open_issues": 21,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69715,
+            "stars": 69739,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -504,11 +504,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T18:35:58Z",
-            "open_issues": 640,
+            "last_commit": "2026-10-13T16:18:55Z",
+            "open_issues": 643,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147696,
+            "stars": 147764,
             "topics": [
               "agents",
               "ai",
@@ -571,7 +571,7 @@
             "open_issues": 15,
             "owner": "gkamradt",
             "repo": "langchain-tutorials",
-            "stars": 7493,
+            "stars": 7494,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:50:08.715Z",
+    "last_updated": "2026-10-13T16:50:14.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Essential reads for every AI engineer interested in building AI apps.",
