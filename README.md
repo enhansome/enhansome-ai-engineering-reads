@@ -95,8 +95,8 @@
 
 ## Tools and Frameworks
 
-* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 148,196 | 🐛 670 | 🌐 Python | 📅 2026-10-21
-* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,891 | 🐛 256 | 🌐 Jupyter Notebook | 📅 2026-09-08
+* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 148,269 | 🐛 664 | 🌐 Python | 📅 2026-10-22
+* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,893 | 🐛 256 | 🌐 Jupyter Notebook | 📅 2026-09-08
 * [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,493 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
 * [fairseq2](https://github.com/facebookresearch/fairseq2) ⭐ 1,153 | 🐛 151 | 🌐 Python | 📅 2026-10-21
 * [LangChain: Enabling LLMs to Use Tools](https://drive.google.com/file/d/1Z9wxwZRG8JOMkUfwDw7fD8sbijQ32J7W/view)
@@ -168,7 +168,7 @@
 
 ## LLM Inference
 
-* [OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter) ⭐ 68,626 | 🐛 19 | 🌐 Rust | 📅 2026-10-11
+* [OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter) ⭐ 68,634 | 🐛 21 | 🌐 Rust | 📅 2026-10-11
 * [Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. As simple as useLLM().](https://github.com/r2d4/react-llm) ⭐ 699 | 🐛 2 | 🌐 TypeScript | 📅 2023-06-27
 * [Inference Experiments with LLaMA v2 7b](https://github.com/djliden/inference-experiments/tree/main/llama2) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-05
 * [Discover, download, and run local LLMs](https://lmstudio.ai/)
@@ -182,7 +182,7 @@
 
 ## LLM Observability
 
-* [AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.](https://github.com/Arize-ai/phoenix) ⭐ 11,936 | 🐛 1,173 | 🌐 Python | 📅 2026-10-21
+* [AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.](https://github.com/Arize-ai/phoenix) ⭐ 11,951 | 🐛 1,211 | 🌐 Python | 📅 2026-10-22
 
 ## LLM Opinions and Critiques
 
@@ -190,8 +190,8 @@
 
 ## LLM Tutorials and Courses
 
-* [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners/tree/main) ⭐ 121,823 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-10-21
-* [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners) ⭐ 70,078 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-09-16
+* [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners/tree/main) ⭐ 121,907 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-10-22
+* [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners) ⭐ 70,110 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-10-21
 * [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 * [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
@@ -218,8 +218,8 @@
 
 ## Open LLM Tools
 
-* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 148,196 | 🐛 670 | 🌐 Python | 📅 2026-10-21
-* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,891 | 🐛 256 | 🌐 Jupyter Notebook | 📅 2026-09-08
+* [LangChain cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) ⭐ 148,269 | 🐛 664 | 🌐 Python | 📅 2026-10-22
+* [seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,893 | 🐛 256 | 🌐 Jupyter Notebook | 📅 2026-09-08
 * [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,493 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
 * [fairseq2](https://github.com/facebookresearch/fairseq2) ⭐ 1,153 | 🐛 151 | 🌐 Python | 📅 2026-10-21
 * [LangChain: Enabling LLMs to Use Tools](https://drive.google.com/file/d/1Z9wxwZRG8JOMkUfwDw7fD8sbijQ32J7W/view)
@@ -261,7 +261,7 @@
 
 ## LLM Ethics and Governance
 
-* [A guidance language for controlling large language models.](https://github.com/guidance-ai/guidance) ⭐ 21,804 | 🐛 354 | 🌐 Jupyter Notebook | 📅 2026-05-21
+* [A guidance language for controlling large language models.](https://github.com/guidance-ai/guidance) ⭐ 21,804 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-05-21
 * [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073?utm_source=www.turingpost.com\&utm_medium=newsletter\&utm_campaign=where-are-you-in-fmops-infrastructure-stack-tell-us)
 
 ## LLM Startups and Funding
@@ -452,4 +452,4 @@ https://arxiv.org/abs/2309.15217
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
