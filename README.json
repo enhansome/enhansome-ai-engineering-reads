@@ -15,11 +15,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T14:00:17Z",
-            "open_issues": 666,
+            "last_commit": "2026-10-24T08:27:54Z",
+            "open_issues": 674,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148316,
+            "stars": 148356,
             "topics": [
               "agents",
               "ai",
@@ -61,7 +61,7 @@
             "open_issues": 256,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11894,
+            "stars": 11893,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -136,7 +136,7 @@
             "open_issues": 70,
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55010,
+            "stars": 55004,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -168,7 +168,7 @@
             "open_issues": 89,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12187,
+            "stars": 12186,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -195,7 +195,7 @@
             "open_issues": 117,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2955,
+            "stars": 2957,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -308,7 +308,7 @@
             "open_issues": 22,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68644,
+            "stars": 68652,
             "topics": [
               "acp",
               "coding-agent",
@@ -386,11 +386,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T13:57:26Z",
-            "open_issues": 1222,
+            "last_commit": "2026-10-24T06:18:07Z",
+            "open_issues": 1225,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11967,
+            "stars": 11981,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -430,11 +430,11 @@
             "id": 655806940,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-22T13:00:23Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-24T04:53:49Z",
+            "open_issues": 11,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 121980,
+            "stars": 122064,
             "topics": [
               "ai",
               "azure",
@@ -466,11 +466,11 @@
             "id": 344190478,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-21T20:18:02Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-23T23:55:14Z",
+            "open_issues": 26,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70153,
+            "stars": 70176,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -504,11 +504,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T14:00:17Z",
-            "open_issues": 666,
+            "last_commit": "2026-10-24T08:27:54Z",
+            "open_issues": 674,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148316,
+            "stars": 148356,
             "topics": [
               "agents",
               "ai",
@@ -550,7 +550,7 @@
             "open_issues": 256,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11894,
+            "stars": 11893,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -625,7 +625,7 @@
             "open_issues": 10,
             "owner": "ray-project",
             "repo": "llm-numbers",
-            "stars": 4315,
+            "stars": 4314,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -652,7 +652,7 @@
             "open_issues": 355,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21806,
+            "stars": 21807,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:09:37.225Z",
+    "last_updated": "2026-10-24T13:12:35.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "Essential reads for every AI engineer interested in building AI apps.",
