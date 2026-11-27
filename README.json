@@ -15,11 +15,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T10:36:59Z",
-            "open_issues": 783,
+            "last_commit": "2026-11-27T08:21:12Z",
+            "open_issues": 786,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 150028,
+            "stars": 150077,
             "topics": [
               "agents",
               "ai",
@@ -61,7 +61,7 @@
             "open_issues": 257,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11908,
+            "stars": 11910,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -100,7 +100,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-19T15:00:23Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "facebookresearch",
             "repo": "fairseq2",
             "stars": 1153,
@@ -168,7 +168,7 @@
             "open_issues": 89,
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12164,
+            "stars": 12165,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -195,7 +195,7 @@
             "open_issues": 131,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2978,
+            "stars": 2979,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -304,11 +304,11 @@
             "id": 666299222,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T14:48:43Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-27T18:18:23Z",
+            "open_issues": 33,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68973,
+            "stars": 68989,
             "topics": [
               "acp",
               "coding-agent",
@@ -386,11 +386,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T13:38:56Z",
-            "open_issues": 1305,
+            "last_commit": "2026-11-27T18:28:19Z",
+            "open_issues": 1312,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12440,
+            "stars": 12461,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -431,10 +431,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-26T03:43:40Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 124322,
+            "stars": 124435,
             "topics": [
               "ai",
               "azure",
@@ -470,7 +470,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 71278,
+            "stars": 71312,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -504,11 +504,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T10:36:59Z",
-            "open_issues": 783,
+            "last_commit": "2026-11-27T08:21:12Z",
+            "open_issues": 786,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 150028,
+            "stars": 150077,
             "topics": [
               "agents",
               "ai",
@@ -550,7 +550,7 @@
             "open_issues": 257,
             "owner": "facebookresearch",
             "repo": "seamless_communication",
-            "stars": 11908,
+            "stars": 11910,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -589,7 +589,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-19T15:00:23Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "facebookresearch",
             "repo": "fairseq2",
             "stars": 1153,
@@ -649,10 +649,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-05-21T17:08:04Z",
-            "open_issues": 357,
+            "open_issues": 358,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21832,
+            "stars": 21833,
             "topics": []
           },
           "first_seen": "2026-08-28T20:47:37.330Z"
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:54:33.995Z",
+    "last_updated": "2026-11-27T18:46:37.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "Essential reads for every AI engineer interested in building AI apps.",
